@@ -5,10 +5,10 @@ int main() {
     printf("Your team points are ");
     scanf("%d",&x);
 	if (x>=12){
-	printf("qualifed");
+	printf("yes");
 	}
 	else{
-	printf("not qualified");
+	printf("no");
 	}
 	return 0;
 }
